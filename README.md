@@ -46,3 +46,6 @@ Assumptions:
 | q3.py      |Complex DFA's won't be provided. Regex need not be simplified.|
 | q4.py      |None|
 
+# Video
+
+The video provides a walkthrough on how to execute the codes.
